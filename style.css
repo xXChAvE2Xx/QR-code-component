@@ -1,0 +1,46 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+}
+.card {
+  background-color: hsl(0, 0%, 100%);
+  width: 19rem;
+  margin: auto;
+  margin-top: 12.5rem;
+  border-radius: 5%;
+  min-height: 100px;
+  overflow: hidden;
+}
+.qr-code {
+  width: 17rem;
+  height: 17rem;
+  border-radius: 5%;
+  margin: 0.9375rem;
+}
+
+.text {
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  width: 15rem;
+  font-size: larger;
+  margin: auto;
+}
+.sub-text {
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  font-size: smaller;
+  width: 15rem;
+  margin: auto;
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 10px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
